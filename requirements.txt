@@ -1,0 +1,2 @@
+# No external dependencies/libraries we are importing like eg pandas,sklearn so no  required requirements for this project.
+# This script uses the built-in Python standard library.
